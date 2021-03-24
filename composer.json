@@ -50,7 +50,7 @@
       "type": "package",
       "package": {
         "version": "dev-master",
-        "name": "moodlehq/moodle-local_wstemplate",
+        "name": "lightningkite/moodle-local_wstemplate",
         "source": {
           "url": "https://github.com/lightningkite/moodle-local_wstemplate",
           "type": "git",
@@ -231,7 +231,7 @@
     "danielneis/moodle-block_newblock": "dev-master#1fc89fb0845ad282426140feeb6bc3653efd1d7f",
     "jamiepratt/moodle-qtype_template": "dev-master",
     "danielneis/moodle-gradereport_newgradereport": "dev-master#691f53a15de352c3fe25da03c001a97a76b18358",
-    "moodlehq/moodle-local_wstemplate": "dev-master#cbe4a705fbc62a573f6e0f3673a9d9d47e843abb",
+    "lightningkite/moodle-local_wstemplate": "dev-master#cbe4a705fbc62a573f6e0f3673a9d9d47e843abb",
     "yetanotherape/diff-match-patch": "dev-master#0726dbb4e59e68574326821c174013cf6fdfe20e",
     "danielneis/moodle-gradeexport_newgradeexport": "dev-master#4d13e3f6e9f4f53d54d6e8ad348278248968412d",
     "danielneis/moodle-message_newprocessor": "dev-master#e2b82f0776b13a30a79f4f20de89d597a15f58c5",
