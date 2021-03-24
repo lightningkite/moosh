@@ -52,12 +52,12 @@
         "version": "dev-master",
         "name": "moodlehq/moodle-local_wstemplate",
         "source": {
-          "url": "https://github.com/moodlehq/moodle-local_wstemplate",
+          "url": "https://github.com/lightningkite/moodle-local_wstemplate",
           "type": "git",
           "reference": "master"
         },
         "dist": {
-          "url": "https://github.com/moodlehq/moodle-local_wstemplate/archive/master.zip",
+          "url": "https://github.com/lightningkite/moodle-local_wstemplate/archive/master.zip",
           "type": "zip"
         }
       }
