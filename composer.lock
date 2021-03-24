@@ -127,7 +127,8 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://github.com/danielneis/moodle-enrol_newenrol/archive/master.zip"
+                "url": "https://github.com/danielneis/moodle-enrol_newenrol/archive/master.zip",
+                "reference": "master"
             },
             "type": "library"
         },
@@ -201,7 +202,8 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://github.com/jamiepratt/moodle-qtype_TEMPLATE/archive/master.zip"
+                "url": "https://github.com/jamiepratt/moodle-qtype_TEMPLATE/archive/master.zip",
+                "reference": "master"
             },
             "type": "library"
         },
@@ -215,7 +217,8 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://github.com/moodlehq/moodle-local_amos/archive/master.zip"
+                "url": "https://github.com/moodlehq/moodle-local_amos/archive/master.zip",
+                "reference": "master"
             },
             "type": "library"
         },
@@ -259,7 +262,8 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://github.com/mudrd8mz/moodle-tool_pluginskel/archive/master.zip"
+                "url": "https://github.com/mudrd8mz/moodle-tool_pluginskel/archive/master.zip",
+                "reference": "master"
             },
             "type": "library"
         },
